@@ -134,7 +134,7 @@ ul li.checked > .tasks{
     text-decoration: line-through;
 }
 ul .checked::before{
-    background-image: url(img/check.png);
+    background-image: url(check.png);
     border: none;
 }
 
